@@ -6,7 +6,7 @@ This Power BI project provides a comprehensive analysis of XYZ Pvt Ltd's sales d
 
 ## Dashboard Screenshot
 
-[XYZ Sales Dashboard](path/to/your/dashboard_screenshot.png)
+[XYZ Sales Dashboard](https://github.com/Manikanta70/Annual-Sales-Report/blob/main/Annual%20Sales%20Report.png)
 
 This dashboard includes visualizations such as:
 
